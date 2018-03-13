@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+    background-image: url(../img/truck.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+    background-position: bottom center; 
+	background-size: cover;
+/*	<meta name="viewport" content="width=device-width, initial-scale=1.0"> */
+	
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+
+}
+
+ 
